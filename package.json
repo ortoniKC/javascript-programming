@@ -1,0 +1,30 @@
+{
+  "name": "js-programming",
+  "version": "1.0.0",
+  "description": "Learn the basic programming that can help you to clear the QA interviews",
+  "main": "main",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ortoniKC/javascript-programming.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "programming",
+    "js",
+    "basics",
+    "js",
+    "testing",
+    "interview",
+    "question"
+  ],
+  "author": "Koushik Chatterjee | LetCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ortoniKC/javascript-programming/issues"
+  },
+  "homepage": "https://github.com/ortoniKC/javascript-programming#readme"
+}
