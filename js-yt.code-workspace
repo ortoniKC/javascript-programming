@@ -4,5 +4,8 @@
       "path": "."
     }
   ],
-  "settings": {}
+  "settings": {
+    "editor.fontSize": 24,
+    "files.autoSave": "afterDelay"
+  }
 }
