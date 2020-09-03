@@ -6,6 +6,7 @@
   ],
   "settings": {
     "editor.fontSize": 28,
-    "files.autoSave": "afterDelay"
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontSize": 26
   }
 }

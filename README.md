@@ -10,3 +10,4 @@ Basic JS programs, that can help us to clear the QA interview's | LetCode
 - String Palindrome - https://youtu.be/8sYij6d91M4
 - String Words count - https://youtu.be/nu2PaKBdNo4
 - String Each Char Count - MAP - https://youtu.be/ghIpWrAd1nY
+- String Remove duplicates - https://youtu.be/XVNYohePMdk
