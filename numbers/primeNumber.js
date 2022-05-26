@@ -11,4 +11,4 @@ function isPrime(n) {
     }
     return `${n} is a prime number`
 }
-console.log(isPrime(29));
+console.log(isPrime(15));
