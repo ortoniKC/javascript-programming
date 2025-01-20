@@ -17,3 +17,6 @@ Basic JS programs, that can help us to clear the QA interview's | LetCode
 
 7. Sum of Digits - https://youtu.be/q0N5Kro96kI
 8. Prime Number - https://youtu.be/cmco9fi3xnA
+
+### Arrays
+9. Movie Management System Using JavaScrip - https://youtu.be/8-eRmf8hv8w
